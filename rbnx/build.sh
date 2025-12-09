@@ -1,3 +1,4 @@
+#!/bin/bash
 git submodule update --init
 
 cd src/livox_ros_driver2
