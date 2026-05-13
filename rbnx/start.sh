@@ -7,4 +7,4 @@ source install/setup.bash
 export LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:/usr/local/lib
 
 # run
-ros2 launch livox_ros_driver2 msg_MID360_launch.py
+ros2 launch src/launch.py
